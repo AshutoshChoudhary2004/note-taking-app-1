@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quote">Capture your thoughts, organize your ideas, and unlock your creativity</string>
+</resources>
